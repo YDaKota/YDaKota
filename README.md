@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+About me
+- My name is Yulia.
+- I am currently learning a Full Stack Development and want to begin a career as a Front end developer💻.
+- In my profile you can see my projects that I did in the learning process🌱.
+- You can visit my Linkedin profile😊 <a href="https://www.linkedin.com/in/yulia-kashichenko/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" alt="LinkedIn Badge"/>
+  </a>
+
+ <hr>
+
 <!--
 **YDaKota/YDaKota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
